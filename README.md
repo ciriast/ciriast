@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ciriast.
 - 👀 I'm interested in C# programming and video game programming.
-- 🌱 I'm currently learning Pygame data structures.
+- 🌱 I'm currently learning Pygame and data structures.
 - 💞️ Looking to collaborate on any kind of video games.
 - 📫 You can send me a DM on Twitter: [Follow me on Twitter!](https://twitter.com/cirias_)
 - ⚡ Fun fact: I'm not that funny.
